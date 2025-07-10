@@ -4,7 +4,7 @@ A beautiful and intuitive visual flow builder for creating chatbot conversations
 
 ## 🚀 Live Demo
 
-**[View Live Demo](https://singular-otter-6a806d.netlify.app)**
+**[View Live Demo](https://nodeee.netlify.app/)**
 
 ## ✨ Features
 
