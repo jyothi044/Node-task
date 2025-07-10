@@ -155,26 +155,3 @@ npm run build
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🐛 Known Issues
-
-- Nodes cannot be deleted (feature to be added)
-- Only text message nodes are currently supported
-- No undo/redo functionality yet
-
-## 🔮 Future Enhancements
-
-- [ ] Multiple node types (Image, Video, Button nodes)
-- [ ] Node deletion functionality
-- [ ] Undo/Redo operations
-- [ ] Flow templates
-- [ ] Export/Import flows
-- [ ] Collaborative editing
-- [ ] Flow simulation/testing
-
----
-
-**Built with ❤️ using React, TypeScript, and Tailwind CSS**
